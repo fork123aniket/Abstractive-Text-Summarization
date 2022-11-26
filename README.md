@@ -1,6 +1,6 @@
 # Abstractive Text Summarization
 
-This repository aims at proving Stacked LSTM-based Encoder-Decoder implementation for ***Abstactive Text Summarization*** task, which generates new relevant sentence as summary for each input (original text in the form of longer paragraphs).
+This repository aims at proving ***Stacked LSTM-based Encoder-Decoder*** implementation for ***Abstactive Text Summarization*** task, which generates new relevant sentence as summary for each input (original text in the form of longer paragraphs).
 This task has many applications:-
 - Entity timelines - Given an entity and a time period, provide a summary of the most memorable events involving this entity.
 - Sentence Compression - Given a sentence, generate a shorter one while preserving the essential contextual information.
